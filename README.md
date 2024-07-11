@@ -9,7 +9,7 @@ Welcome to my personal portfolio website! This project showcases my skills and p
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
-- [License](#license)
+
 
 ## Features
 
@@ -28,7 +28,7 @@ Welcome to my personal portfolio website! This project showcases my skills and p
 
 2. Navigate to the project directory:
     ```bash
-    cd your-portfolio
+    cd portfolio
     ```
 
 ## Usage
